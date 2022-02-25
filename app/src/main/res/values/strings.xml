@@ -1,0 +1,5 @@
+<resources >
+    <string name="app_name">MevoYuri</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoieXVyaWxpdTA5MDkiLCJhIjoiY2t6eGg2eGJiMDE3bzJ2bjFrZHlnZ2UzNCJ9.vHt1GyAbJ0gE4X8FfXdB3Q</string>
+
+</resources>
